@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="WHITE">#FFFFFF</color>
+	<color name="BLACK">#000000</color>
+	<color name="UE_DARK_BLUE">#002060</color>
+	<color name="UE_LIGHT_BLUE">#3C92CF</color>
+</resources>

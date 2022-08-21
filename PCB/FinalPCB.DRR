@@ -1,0 +1,47 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: FinalPCB.PcbDoc   3/22/2013  5:17:24 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FinalPCB-RoundHoles.TXT
+ASCII SlotHoles File : FinalPCB-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        23mil (0.5842mm)         Round          40               5.76 Inch (146.30 mm)
+T2        25mil (0.635mm)          Round          2                0.19 Inch (4.90 mm)
+T3        28mil (0.7112mm)         Round          6                5.84 Inch (148.37 mm)
+T4        31mil (0.7874mm)         Round          3                0.10 Inch (2.54 mm)
+T5        33mil (0.8382mm)         Round          36               25.76 Inch (654.29 mm)
+T6        34mil (0.8636mm)         Round          16               2.03 Inch (51.56 mm)
+T7        35mil (0.889mm)          Round          27               8.21 Inch (208.66 mm)
+T8        39mil (0.9906mm)         Round          3                0.20 Inch (5.08 mm)
+T9        43mil (1.0922mm)         Round          3                0.20 Inch (5.00 mm)
+T10       47mil (1.1938mm)         Round          74               24.25 Inch (615.87 mm)
+T11       50mil (1.27mm)           Round          4                0.81 Inch (20.59 mm)
+T12       55mil (1.397mm)          Slot           3                291.56 Inch (7405.72 mm)
+T13       59mil (1.4986mm)         Round          15               4.44 Inch (112.85 mm)
+T14       79mil (2.0066mm)         Round          28               11.77 Inch (299.04 mm)
+---------------------------------------------------------------------------
+Totals                                            260              381.13 Inch (9680.76 mm)
+
+Two holes at same point : 16
+-----------------------
+5817,2874
+7972,3226
+3622,4843
+3898,4843
+1433,6122
+1079,6122
+803,6122
+449,5925
+173,5925
+1709,6122
+2063,6122
+2339,6122
+3622,6142
+3898,6142
+3898,5335
+3622,5335
+
+Total Processing Time (hh:mm:ss) : 00:00:00
